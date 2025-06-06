@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal_website=self.webpackChunkpersonal_website||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/clementjuventin-blog/","blogTitle":"Blog","authorsListPath":"/clementjuventin-blog/authors"}')}}]);
