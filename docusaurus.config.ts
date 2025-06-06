@@ -12,7 +12,7 @@ const config: Config = {
   },
 
   url: 'https://clementjuventin.github.io',
-  baseUrl: '/',
+  baseUrl: '/clementjuventin-blog/',
   organizationName: 'clementjuventin',
   projectName: 'clementjuventin-blog',
 
