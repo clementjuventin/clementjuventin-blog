@@ -2,10 +2,10 @@
 slug: degen-to-sniper
 title: From A Nooby Degen to a Bloodthirsty Sniper
 authors: clementjuventin
-tags: []
+tags: [web3, story, technical]
 ---
 
-In this article I'd like to recount my first steps as a degen and what prompted me to turn to the world of sniping.
+In this article I'd like to recount my *first steps as a degen* and what prompted me to turn to the **world of sniping**.
 
 <!-- truncate -->
 

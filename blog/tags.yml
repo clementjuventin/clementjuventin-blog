@@ -3,9 +3,22 @@ web3:
   permalink: /web3
   description: Web3 related projects
 
-c++:
-  label: C++
-  permalink: /c++
-  description: C++ related projects
+technical:
+  label: Technical
+  permalink: /technical
+  description: Technical articles
 
+opal:
+  label: Opal
+  permalink: /opal
+  description: Opal articles
 
+cede-labs:
+  label: Cede Labs
+  permalink: /cede-labs
+  description: Cede Labs articles
+
+story:
+  label: Story
+  permalink: /story
+  description: Story about my life

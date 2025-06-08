@@ -2,10 +2,10 @@
 slug: request-throttler
 title: Tackling Rate Limiting, One of My First Challenges at Cede Labs
 authors: clementjuventin
-tags: []
+tags: [cede-labs, technical]
 ---
 
-Cede Labs’ SDK is designed to support any number of centralized exchange accounts, allowing applications or users to query data from several CEXs seamlessly. However, this flexibility exposed a serious issue: **API rate limits**.
+Cede Labs’s SDK is designed to support any number of centralized exchange accounts, allowing applications or users to query data from several CEXs seamlessly. However, this flexibility exposed a serious issue: **API rate limits**.
 
 <!-- truncate -->
 

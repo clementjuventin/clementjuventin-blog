@@ -2,10 +2,10 @@
 slug: building-an-arbitrager
 title: Building an Arbitrage Bot
 authors: clementjuventin
-tags: []
+tags: [web3, story, technical]
 ---
 
-I've been fascinated by MEV (Maximal Extractable Value) for a while now, and over the past few weeks, I’ve started building my own arbitrage bot. It’s been a challenging yet insightful journey, and I’d like to share my experience so far.
+I've been fascinated by **MEV** (Maximal Extractable Value) for a while now, and over the past few weeks, I’ve started building **my own arbitrage bot**. It’s been a challenging yet insightful journey, and I’d like to share my experience so far.
 
 <!-- truncate -->
 
@@ -108,7 +108,7 @@ I decided to hardcode the input amount to 1 HYPE, and to ignore the gas cost of 
 With everything wired up, I ran the bot, stepped away for 20 minutes… and came back to see my **first profitable transaction — about $0.30** at the time.
 
 ![First Arbitrage Transaction](/img/first_arbitrage_tx.jpg)
-> My first arbitrage transaction on HyperEVM. Source [Purrsec](https://purrsec.com/tx/0x710e7c9dd53dad1aa3cb15b3225eb1b777a3b230a750e4a36f1d4eb9de17e87e).
+> My first arbitrage transaction on HyperEVM. Source [Purrsec](https://purrsec.com).
 
 It was a small gain, but a huge morale boost. At that point, I believed I was close to a viable system. With a dedicated node and estimated infrastructure costs around $100/month, profitability seemed achievable.
 
@@ -213,7 +213,7 @@ Instead, the node is tasked with simulating a smart contract execution. This way
 
 This gave me much better results while avoiding heavy off-chain computation. Here is a snippet of the binary search function, it returns the optimal `k` value (ie. the best amount) to maximize the profit:
 
-```sol
+```solidity
 function binarySearchOptimalK(
     Trade[] calldata trades,
     uint256 step,

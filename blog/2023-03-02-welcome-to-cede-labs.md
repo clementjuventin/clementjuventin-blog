@@ -2,10 +2,10 @@
 slug: welcome-to-cede-labs
 title: I'm Joining Cede Labs as a Full-Stack Developer!
 authors: clementjuventin
-tags: []
+tags: [cede-labs, story, web3]
 ---
 
-I’m thrilled to announce that I’m joining Cede Labs as a Full-Stack Developer!
+I’m thrilled to announce that **I’m joining Cede Labs as a Full-Stack Developer**!
 
 <!-- truncate -->
 
